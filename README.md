@@ -38,4 +38,5 @@ Develop SQL-based analytics to deliver detailed insights into:
   This project is licensed under the (MIT License).(LICENSE). You are free to use, modify and share this ptojec with proper attribution
 
   ##  About me
-  
+  Hi there! I'm Thoriso Msabe, also known as Nomampondomise. I'm a motivaed Business Systems student pivoting into the data world of Data Engineering. My academic background in business systems has provided me with a strong understanding of how data drives business decisons, which I am now tapping into build robust and well organised data solutions.
+I'm passionate about turning messy, raw data into business value, one query at a time.
